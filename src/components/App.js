@@ -5,3 +5,5 @@ class App extends Component {
     return <div>App</div>;
   }
 }
+
+export default App;
